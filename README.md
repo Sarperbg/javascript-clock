@@ -1,2 +1,3 @@
-# javascript-clock
-kodluyoruz front ent challenge javascript bölümü 1. çalışma ödevi
+# Kodluyoruz Front End Challenge Javascript bölümü 1.ödev
+## Javascript ile kullanıcıdan isim bilgisi alıp tarih ve saat yazdırma konulu calısma 
+![clock](clock.png)
